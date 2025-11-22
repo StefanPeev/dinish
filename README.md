@@ -1,6 +1,7 @@
 ![DINish](/din-vs-dinish.jpeg "DIN vs DINish")
 
-## Introduction
+Introduction
+-------------------
 
 DINish is one of many modern computer fonts that were inspired by the
 lettering of the German Autobahn road signs. It is professionally
@@ -11,7 +12,8 @@ century old maintains a fresh look.
 This DIN font is free to use, for desktop use, e-books, as a web font,
 or just to tinker with.
 
-## About the name
+About the name
+-------------------
 
 The name DINish refers to the fact that the typeface looks like DIN 1451.
 Actually, a quick comparison with the standard as can be found in historic
@@ -32,7 +34,8 @@ roughly matches the DIN Engschrift, and Expanded is like DIN
 Breitschrift (rarely used in Germany, actually). There are Regular,
 Bold and Italic variants.
 
-## Historic roots
+Historic roots
+-------------------
 
 DIN 1451 is a [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typeface
 that is widely used for traffic, administrative and technical applications.
@@ -51,7 +54,8 @@ digitally.
 
 See [https://en.wikipedia.org/wiki/DIN_1451](https://en.wikipedia.org/wiki/DIN_1451) for more information.
 
-## Language support
+Language support
+-------------------
 
 DINish now fully supports almost all European Latin languages as per
 https://r12a.github.io/app-charuse/.  In total, 243 Latin-based languages
@@ -61,7 +65,8 @@ conventions. There is special handling in OpenType for the Polish and
 Romanian languages.
 
 
-## OpenType Features
+OpenType Features
+-------------------
 
 By default, numbers are proportionally spaced. For use in spreadsheets
 or other tabular document formats, tabular numbers are available that
@@ -88,7 +93,8 @@ DINish for the design of the next Romanian bank notes.
 The Dutch language has an ij digraph. If you prefer, you can enable the
 ss01 stylistic alternate to automatically substitute ij with ĳ.
 
-## DINish demo pages
+DINish demo pages
+-------------------
 
 See the [features page](https://fonts.playbeing.com/dinish/features) for
 usage examples. For inspiration, look at the
@@ -97,7 +103,8 @@ An interactive [font specimen](https://fonts.playbeing.com/dinish/specimen)
 shows the character set. The pangram shown there is editable; try your
 own text, and feel free to play with the size and the font variations!
 
-## As a webfont
+As a webfont
+-------------------
 
 As DINish is not yet available on any of the major free font CDNs, you
 will have to host the font yourself. Fortunately, the font is light
@@ -112,7 +119,8 @@ webserver, which automatically translates into a faster site for
 your visitors!
 In Jekyll, that is a [trivial change](https://github.com/playbeing/dinish/commit/4467855a292e0bd58ff7d933b7ef2148098eba66).
 
-## Information for Contributors
+Information for Contributors
+------------------------------
 
 This Font Software is licensed under the [SIL Open Font License, Version 1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL.txt).
 
@@ -133,7 +141,8 @@ Copyright © 2017 Datto Inc. (https://www.datto.com/fonts/d-din)
 
 Also see [FONTLOG.txt](https://raw.githubusercontent.com/playbeing/dinish/master/FONTLOG.txt).
 
-## Acknowledgements
+Acknowledgements
+-------------------
 
 The [DINish](https://github.com/playbeing/dinish) font is derived from
 [Altinn-DIN](https://github.com/Altinn/altinn-din), which in turn is
@@ -145,7 +154,8 @@ did the original design.
 Many glyphs have been touched since then, and any errors are the responsibility of the contributors who followed in his footsteps.
 The font is made available under the [SIL Open Font License v1.1](https://raw.githubusercontent.com/playbeing/dinish/master/OFL.txt).
 
-## ChangeLog
+ChangeLog
+-------------------
 
 - 2023-11-26 - v3.004: Extended Cyrillic and extended Latin. Combining all plain source files in one VFC font and creating a variable version together with static versions.
 - 2023-11-16 - v3.003: Cyrillic glyphs for Russian, Serbian, Bulgarian languages in Dinish (normal). Full interpolation between Regular and Bold for creation of the following instances: Regular, Medium, SemiBold, Bold.
@@ -165,4 +175,37 @@ The font is made available under the [SIL Open Font License v1.1](https://raw.gi
 - 2021-04-13 - v2.002: Renamed to DINish, cleaned up for submission to Google Fonts
 - 2021-04-03 - v2.001: Converted to ufo, see NOTES.md
 - 2019-11-20 - v2.0: Renamed D-DIN to Altinn-DIN to be able to do minor modifications
-- 2017-10-26 - v1.0: First public release
+- 2017-10-26 - v1.0: First public release  
+  
+Localfonts projects  
+-------------------
+  
+The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The **Localfonts** project consists of the following fonts:
+  
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Grazhdanskiy Shrift](https://github.com/StefanPeev/Grazhdanskiy-Shrift)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Listopad | Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Prolog | Libre Moretus](https://github.com/StefanPeev/libre-moretus/tree/prolog)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Scada | Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Spritulo](https://github.com/StefanPeev/spritulo)  
++ [Terminalia](https://github.com/StefanPeev/Terminalia)  
++ [Veleka](https://github.com/StefanPeev/Veleka)  
+  
+Donations
+---------
+
+If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
